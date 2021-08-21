@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Ap1",
+      "appliesTo": "Ap1.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Ap1",
+      "appliesTo": "Ap1.sln",
+      "type": "launch"
+    }
+  ]
+}
